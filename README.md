@@ -34,8 +34,7 @@ Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do b
 > *"Magnificent Code Swiftly in Production"*
 
 - 🎓 Estudante e desenvolvedor em constante evolução
-- 🔭 Explorando o universo de **IA, dados e engenharia de software**
-- 🌱 Sempre aprendendo algo novo — atualmente mergulhando em **LLMs e pipelines de dados**
+- 🔭 Explorando o universo de tecnologia: **IA, dados e engenharia de software**
 - 📍 Brasil
 
 ---
