@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nicolas%20Isepe%20Paz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Magnificent%20Code%20Swiftly%20in%20Production&descSize=16&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=200&section=header&text=Nicolas%20Isepe%20Paz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Magnificent%20Code%20Swiftly%20in%20Production&descSize=16&descAlignY=58&descColor=c9d1d9" />
 
 <br/>
 
@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 Sobre mim
+## 👋 About Me
 
-Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do banco de dados à interface, do script à produção. Gosto de construir sistemas que sejam rápidos, elegantes e que realmente funcionem.
+I'm a developer passionate about turning ideas into real solutions — from database to interface, from script to production. I love building systems that are fast, elegant, and actually work.
 
 > *"Magnificent Code Swiftly in Production"*
 
-- 🎓 Estudante e desenvolvedor em constante evolução
-- 🔭 Explorando o universo de tecnologia: **IA, dados e engenharia de software**
-- 📍 Brasil
+- 🎓 Student and developer in constant evolution
+- 🔭 Exploring the world of technology: **AI, data, and software engineering**
+- 📍 From Brazil
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack & Tools
 
-**Linguagens**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +50,7 @@ Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Dados & Cloud**
+**Data & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,14 +59,12 @@ Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do b
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **DevOps & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Design & Produtividade**
+**Design & Productivity**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -86,7 +84,7 @@ Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do b
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasIsepe&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasIsepe&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -94,6 +92,7 @@ Sou desenvolvedor apaixonado por transformar ideias em soluções reais — do b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=100&section=footer"/>
 
 </div>
+
