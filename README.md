@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-I'm a developer passionate about turning ideas into real solutions — from database to interface, from script to production. I love building systems that are fast, elegant, and actually work.
+I'm a developer passionate about turning ideas into real solutions, from database to interface, from script to production. I love building systems that are fast, elegant, and actually work.
 
 > *"Magnificent Code Swiftly in Production"*
 
