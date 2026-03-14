@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+**NicolasIsepe/NicolasIsepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=200&section=header&text=Nicolas%20Isepe%20Paz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Magnificent%20Code%20Swiftly%20in%20Production&descSize=16&descAlignY=58&descColor=c9d1d9" />
@@ -48,6 +63,7 @@ I'm a developer passionate about turning ideas into real solutions, from databas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Data & Cloud**
@@ -68,10 +84,14 @@ I'm a developer passionate about turning ideas into real solutions, from databas
 **Design & Productivity**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**IDEs & Editors**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -97,4 +117,5 @@ I'm a developer passionate about turning ideas into real solutions, from databas
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=100&section=footer"/>
 
 </div>
+
 
