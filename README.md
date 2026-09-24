@@ -75,6 +75,8 @@ We developed a solution using an image-capable language model to interpret each 
 
 <p>
 <img src="assets/badges/react.svg" height="36" alt="React" />
+<img src="assets/badges/html5.svg" height="36" alt="HTML" />
+<img src="assets/badges/css.svg" height="36" alt="CSS" />
 </p>
 
 ### Databases
