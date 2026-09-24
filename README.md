@@ -1,120 +1,139 @@
-<!--
-**NicolasIsepe/NicolasIsepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**NicolasIsepe/NicolasIsepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/banner.png" width="100%" alt="Nicolas Isepe — We’re constantly learning. Mountains at dusk." />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=200&section=header&text=Nicolas%20Isepe%20Paz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Magnificent%20Code%20Swiftly%20in%20Production&descSize=16&descAlignY=58&descColor=c9d1d9" />
+**Data Engineer · Backend Developer**
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasisepe/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasisepe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasisepe@gmail.com)
+<a href="https://www.linkedin.com/in/nicolasisepe/"><img src="assets/badges/linkedin.svg" height="36" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/nicolasisepe/"><img src="assets/badges/instagram.svg" height="36" alt="Instagram" /></a>
+<a href="mailto:nicolasisepe@gmail.com"><img src="assets/badges/gmail.svg" height="36" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About me
 
-I'm a developer passionate about turning ideas into real solutions, from database to interface, from script to production. I love building systems that are fast, elegant, and actually work.
+I'm Nicolas, a 16-year-old developer working as a **Data Engineer at Wild Fork Foods since 2025**. I map business processes and trace how data moves through them, identifying redundant steps and opportunities to make workflows more efficient. My day-to-day tools include **Qlik, Snowflake, and dbt**.
 
-> *"Magnificent Code Swiftly in Production"*
+My interests span both backend and frontend development. Right now, I'm focusing on **backend development**, building projects with **FastAPI** and exploring how APIs and databases work together.
 
-- 🎓 Student and developer in constant evolution
-- 🔭 Exploring the world of technology: **AI, data, and software engineering**
-- 📍 From Brazil
+## Selected projects
+
+### [Athena — Accessible art commerce](https://github.com/athena-ecommerce-)
+
+A school project exploring accessibility in digital products through an e-commerce platform for selling artwork. **I contributed to the development of the API endpoints.**
+
+<p>
+<img src="assets/badges/fastapi.svg" height="36" alt="FastAPI" />
+<img src="assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
+<img src="assets/badges/html5.svg" height="36" alt="HTML" />
+<img src="assets/badges/css.svg" height="36" alt="CSS" />
+<img src="assets/badges/javascript.svg" height="36" alt="JavaScript" />
+</p>
+
+### [Mini Inter — School management](https://github.com/Mini-Inter-)
+
+A school management platform developed as a school project, connecting a Java Servlet backend and a PostgreSQL database to a web interface.
+
+<p>
+<img src="assets/badges/java.svg" height="36" alt="Java" />
+<img src="assets/badges/servlets.svg" height="36" alt="Servlets" />
+<img src="assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
+<img src="assets/badges/html5.svg" height="36" alt="HTML" />
+<img src="assets/badges/css.svg" height="36" alt="CSS" />
+</p>
+
+### [IARA — From photos to inspection data](https://github.com/IARA-1-ano-)
+
+A school project aligned with **SDG 9: Industry, Innovation and Infrastructure**. Our team addressed the manual reading of an inspection tally board used in a Federal Inspection Service (SIF) workflow, a task performed every 15 minutes.
+
+We developed a solution using an image-capable language model to interpret each row of the board from a photograph and calculate its totals, automating the reading and calculation process.
+
+`Multimodal AI` · `Image interpretation` · `Process automation`
+
+## Technologies & tools
+
+### Languages
+
+<p>
+<img src="assets/badges/java.svg" height="36" alt="Java" />
+<img src="assets/badges/python.svg" height="36" alt="Python" />
+<img src="assets/badges/javascript.svg" height="36" alt="JavaScript" />
+<img src="assets/badges/typescript.svg" height="36" alt="TypeScript" />
+<img src="assets/badges/gnubash.svg" height="36" alt="Shell scripting" />
+</p>
+
+### Backend
+
+<p>
+<img src="assets/badges/fastapi.svg" height="36" alt="FastAPI" />
+<img src="assets/badges/springboot.svg" height="36" alt="Spring Boot" />
+</p>
+
+### Frontend
+
+<p>
+<img src="assets/badges/react.svg" height="36" alt="React" />
+</p>
+
+### Databases
+
+<p>
+<img src="assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
+<img src="assets/badges/mongodb.svg" height="36" alt="MongoDB" />
+<img src="assets/badges/redis.svg" height="36" alt="Redis" />
+</p>
+
+### Data & AI
+
+<p>
+<img src="assets/badges/snowflake.svg" height="36" alt="Snowflake" />
+<img src="assets/badges/dbt.svg" height="36" alt="dbt" />
+<img src="assets/badges/qlik.svg" height="36" alt="Qlik" />
+<img src="assets/badges/langchain.svg" height="36" alt="LangChain" />
+</p>
+
+### Systems & version control
+
+<p>
+<img src="assets/badges/ubuntu.svg" height="36" alt="Ubuntu Linux" />
+<img src="assets/badges/docker.svg" height="36" alt="Docker" />
+<img src="assets/badges/git.svg" height="36" alt="Git" />
+<img src="assets/badges/github.svg" height="36" alt="GitHub" />
+</p>
+
+### Design & development tools
+
+<p>
+<img src="assets/badges/figma.svg" height="36" alt="Figma" />
+<img src="assets/badges/androidstudio.svg" height="36" alt="Android Studio" />
+<img src="assets/badges/intellijidea.svg" height="36" alt="IntelliJ IDEA" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/NicolasIsepe">
+    <img width="480" src="https://github-stats-extended.vercel.app/api?username=NicolasIsepe&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=101C2C&amp;title_color=39E75F&amp;icon_color=39E75F&amp;text_color=D9E2EE" alt="Nicolas Isepe's public GitHub statistics" />
+  </a>
+  <a href="https://github.com/NicolasIsepe?tab=repositories">
+    <img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasIsepe&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=101C2C&amp;title_color=39E75F&amp;text_color=D9E2EE" alt="Language distribution across Nicolas Isepe's public repositories" />
+  </a>
+</p>
+
+<sub>Language distribution reflects code in public repositories, not proficiency.</sub>
+
+<!-- Stats are externally hosted; logos and banner are included locally. Stats availability and refresh timing depend on the provider. -->
 
 ---
 
-## 🛠️ Stack & Tools
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Data & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**DevOps & Infra**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Design & Productivity**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-**IDEs & Editors**
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasIsepe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasIsepe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+**Let's connect.**
+
+<a href="https://www.linkedin.com/in/nicolasisepe/"><img src="assets/badges/linkedin.svg" height="36" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/nicolasisepe/"><img src="assets/badges/instagram.svg" height="36" alt="Instagram" /></a>
+<a href="mailto:nicolasisepe@gmail.com"><img src="assets/badges/gmail.svg" height="36" alt="Email" /></a>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicolasIsepe&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:30363d,100:484f58&height=100&section=footer"/>
-
-</div>
-
-
