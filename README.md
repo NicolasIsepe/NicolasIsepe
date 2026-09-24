@@ -18,7 +18,7 @@ I'm Nicolas, a 16-year-old developer working as a **Data Engineer at Wild Fork F
 
 My interests span both backend and frontend development. Right now, I'm focusing on **backend development**, building projects with **FastAPI** and exploring how APIs and databases work together.
 
-## Selected projects
+## Some Projects
 
 ### [Athena — Accessible art commerce](https://github.com/athena-ecommerce-)
 
