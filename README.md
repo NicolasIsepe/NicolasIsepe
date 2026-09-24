@@ -117,12 +117,7 @@ We developed a solution using an image-capable language model to interpret each 
   <a href="https://github.com/NicolasIsepe">
     <img width="480" src="https://github-stats-extended.vercel.app/api?username=NicolasIsepe&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=101C2C&amp;title_color=39E75F&amp;icon_color=39E75F&amp;text_color=D9E2EE" alt="Nicolas Isepe's public GitHub statistics" />
   </a>
-  <a href="https://github.com/NicolasIsepe?tab=repositories">
-    <img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasIsepe&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=101C2C&amp;title_color=39E75F&amp;text_color=D9E2EE" alt="Language distribution across Nicolas Isepe's public repositories" />
-  </a>
 </p>
-
-<sub>Language distribution reflects code in public repositories, not proficiency.</sub>
 
 <!-- Stats are externally hosted; logos and banner are included locally. Stats availability and refresh timing depend on the provider. -->
 
